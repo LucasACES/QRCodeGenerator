@@ -3,7 +3,7 @@ A simple python code that has the sole and exclusive purpose of generating QRCod
 
 ### Working:
 
-![Alt Text](gif.gif)
+![Alt Text](NewGif.gif)
 
 
 ### Installation:
@@ -12,18 +12,9 @@ A simple python code that has the sole and exclusive purpose of generating QRCod
 
 $ pip install -r requirements.txt
 ```
-### Executable:
-To create an executable, follow this:
-
-````
-#Type this on powershell or cmd
-
-PS your_path/to_git/clone> cxfreeze -c qrcode.py --target-dir QRCODEGENERATOR
-
-````
 ### Executation:
 
-To use this Generator, you need to install the dependencies, after this, just doing a double click on file .py
+To use this generator, unzip the .exe (named QR Code Generator.zip).
 
 
 ### License
