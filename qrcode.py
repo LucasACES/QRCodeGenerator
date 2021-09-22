@@ -3,7 +3,6 @@
 import sys
 import traceback
 import pyqrcode
-from time import sleep
 import png
 
 print("              _                          ")
